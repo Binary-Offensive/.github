@@ -4,7 +4,7 @@ This is an organization profile where I share my private Offensive Security Tool
 
 My name is Mariusz Banach and I'm a Red Team operator specialized in malware/offensive tooling development & adversary simulation. I code a lot up until late morning hours with incentive to enhance red team tooling, attacker TTPs and improve world's cyber-security resilience against APT groups. 
 
-IF you wish to access OST shared here, please [consider buying me a coffee](https://github.com/sponsors/mgeeky) _(or better a beer)_ as a way of saying thank you! 💪 
+If you wish to access OST shared here, please [consider buying me a coffee](https://github.com/sponsors/mgeeky) _(or better a beer)_ as a way of saying thank you! 💪 
 
 ---
 
